@@ -6,7 +6,7 @@ A structured risk register and evaluation model designed to quantify IT and infr
 To bridge the gap between technical vulnerabilities and business impact by modeling risk scenarios, calculating residual vs. inherent risk, and justifying security controls.
 
 ## Tools & Frameworks Used
-* **Spreadsheet Modeling / Python (Pandas)**
+* **Spreadsheet Modeling
 * **NIST SP 800-30** (Risk Assessment Methodology)
 * **Qualitative & Quantitative Scoring Metrics** (Likelihood & Impact Scales)
 
