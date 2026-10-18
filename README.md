@@ -11,7 +11,7 @@ To bridge the gap between technical vulnerabilities and business impact by model
 * **Qualitative & Quantitative Scoring Metrics** (Likelihood & Impact Scales)
 
 ## What's Included
-* `risk_register.csv`: The complete master tracking sheet featuring asset valuations, threat scenarios, and mitigation controls.
+* `risk_register.xslx`: The complete master tracking sheet featuring asset valuations, threat scenarios, and mitigation controls.
 * `scenarios/`: Documented walkthroughs of modeled threats (e.g., cloud data exfiltration, unpatched asset compromise).
 
 ## Sample Scenarios Evaluated
